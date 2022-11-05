@@ -1,0 +1,8 @@
+C:/Users/AR450R3400G/source/repos/final_project/out/build/x64-release/CMakeFiles/edit_cache.dir
+C:/Users/AR450R3400G/source/repos/final_project/out/build/x64-release/CMakeFiles/rebuild_cache.dir
+C:/Users/AR450R3400G/source/repos/final_project/out/build/x64-release/final_project/CMakeFiles/final_project.dir
+C:/Users/AR450R3400G/source/repos/final_project/out/build/x64-release/final_project/CMakeFiles/edit_cache.dir
+C:/Users/AR450R3400G/source/repos/final_project/out/build/x64-release/final_project/CMakeFiles/rebuild_cache.dir
+C:/Users/AR450R3400G/source/repos/final_project/out/build/x64-release/lua-lib/CMakeFiles/LuaLib.dir
+C:/Users/AR450R3400G/source/repos/final_project/out/build/x64-release/lua-lib/CMakeFiles/edit_cache.dir
+C:/Users/AR450R3400G/source/repos/final_project/out/build/x64-release/lua-lib/CMakeFiles/rebuild_cache.dir
